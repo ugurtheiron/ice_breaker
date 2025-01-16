@@ -1,0 +1,267 @@
+{
+    "public_identifier": "ugur-ozdemir",
+    "profile_pic_url": null,
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ugur-ozdemir/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250116%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250116T092645Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e7532f004864b5ed2b8e970e706f54a52bfab34a6f74784760e7af46c531fe53",
+    "first_name": "Ugur",
+    "last_name": "Ozdemir",
+    "full_name": "Ugur Ozdemir",
+    "follower_count": 872,
+    "occupation": "Embedded Software Developer at Luxoft",
+    "headline": "Embedded Software Engineer at Luxoft",
+    "summary": null,
+    "country": null,
+    "country_full_name": null,
+    "city": null,
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Luxoft",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/luxoft/",
+            "company_facebook_profile_url": null,
+            "title": "Embedded Software Developer",
+            "description": "Collaborating with a highly distributed team across the globe for a leading automotive manufacturer in Germany.\\n\\n* Virtualizing hardware for SIL testing of software-defined vehicles\\n* Debugging software errors and hardware model issues during software bring-up\\n* Designing and implementing a virtual sub-component for simulating serial communication\\n\\nC/C++, Low-Level Debugging, Python, Zuul, Ansible, ARM",
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/luxoft/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250116%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250116T092646Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=99d3d9125dedddf14a93269a7fec847b36eb2b0e01f885fb6eb59e697e0647ed"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2022
+            },
+            "company": "Ombori",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ombori-group/",
+            "company_facebook_profile_url": null,
+            "title": "Embedded Linux Engineer",
+            "description": "Docker, AWS, ARM System Architect",
+            "location": "Stockholm, Sweden (Remote)",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/ombori-group/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250116%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250116T092646Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=5aebcfd0b9481752d258231c490d88afe01e9d36a8c36c1f528ed26dd0684f7e"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2022
+            },
+            "company": "STG Engineering",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/stg-m/",
+            "company_facebook_profile_url": null,
+            "title": "Embedded Software Engineer",
+            "description": "Certifications and Duties I Undertook in Projects in the STG Inc.:\\n* Embedded Linux and Application Software (C/C++, Python, QT)\\n* Operating System (Linux) and Kernel Development (Yocto Project, Bash) \\n* Image Processing/Streaming/Compressing Software Development (Gstreamer, OpenCV, TensorFlow, ML)\\n* Embedded Controller (MCU) and IoT (RF) System and Software Development\\n* ISO9001, ISO2701, ISO22301 \\n* DO-178B/C (In Progress) \\n* AS9100 (In Progress) \\n\\nOrganizational Softwares I Used:\\n* Canias ERP \\n* Jira / Redmine \\n* Gitlab\\n* Doors",
+            "location": "Ankara, Turkey",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/stg-m/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250116%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250116T092646Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=3026bd4a6407cf88f6d11e2490aa29bae0efc8ce41460e9986eb9268766861ef"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2020
+            },
+            "company": "MODOYA A.\\u015e.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/modoya/",
+            "company_facebook_profile_url": null,
+            "title": "Embedded System Engineer",
+            "description": "Autonomous Vehicles Software ( ROS, C++, QT)\\nPartly obeyed automotive standards\\nSensor Hardware and Software Development (C/C++, Assembler, VHDL, Eagle) \\nReal-Time Image Processing Algorithms\\nSwarm Autonomous Vehicle Algorithms",
+            "location": "Eskisehir, Turkey",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/modoya/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250116%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250116T092646Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8dc53a5fe0a5d231900954a4598d853c5032bd1e1afa69133c925d21b93dc52d"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2019
+            },
+            "company": "MODOYA A.\\u015e.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/modoya/",
+            "company_facebook_profile_url": null,
+            "title": "Embedded Software Engineer",
+            "description": "Autonomous Vehicle Software Development (AGV) \\nEmbedded Software Developer (C/C++, QT, Assembler)\\nEmbedded Linux",
+            "location": "Eskisehir, Turkey",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/modoya/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250116%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250116T092646Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8dc53a5fe0a5d231900954a4598d853c5032bd1e1afa69133c925d21b93dc52d"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "field_of_study": "Electrical and Electronics Engineering",
+            "degree_name": "Bachelor's degree",
+            "school": "Eski\\u015fehir Osmangazi \\u00dcniversitesi",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/esogu/",
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/esogu/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250116%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250116T092646Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=f175aeef64b5bf48522f60768ce3bc2aae3b689f2af1265a08b04d9387d49c9d",
+            "grade": "2.76",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "field_of_study": "Electrical, Electronics and Communications Engineering",
+            "degree_name": "Bachelor's degree",
+            "school": "Technical University of Cluj Napoca",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/universitatea-tehnica-din-cluj-napoca/",
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/universitatea-tehnica-din-cluj-napoca/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250116%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250116T092646Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=440842cbe29584a3d0b7f0f81297ff2dfdefc529d6aca3f7123dfcdeab079e19",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "languages_and_proficiencies": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/yuliya-borbuniuk",
+            "name": "Yuliya Borbuniuk",
+            "summary": "IT Researcher at Luxoft",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ekrem-kilic",
+            "name": "Ekrem K\\u0131l\\u0131\\u00e7",
+            "summary": "Software Engineer | C++ | Robotics | Automotive",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mesut-cem-akin-04334892",
+            "name": "Mesut Cem AKIN",
+            "summary": "Embedded Software Engineer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/erenkeskin",
+            "name": "Hasan Eren Keskin",
+            "summary": "Co-Founder of Montarist / Vignetim / C++ Software Engineer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/roland-bode",
+            "name": "Roland Bode",
+            "summary": "Software Engineer Automotive - Fusing Innovation and Collaboration for Success",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/tugba-karadeniz",
+            "name": "Tu\\u011fba Karadeniz",
+            "summary": "C/C++ Software Developer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/muhammed-emin-tan\\u0131k-4ba683169",
+            "name": "Muhammed Emin Tan\\u0131k",
+            "summary": "Embedded Software Developer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/emre-iris",
+            "name": "Emre \\u0130.",
+            "summary": "Senior C++ developer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mohamed-abdou-b7161416a",
+            "name": "mohamed abdou",
+            "summary": "Software Developer at Luxoft",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/abdullahenesbedir",
+            "name": "Abdullah Enes Bedir",
+            "summary": "Software Engineer at Luxoft",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [
+        "Embedded Devices",
+        "STM32",
+        "DO-178B",
+        "C (Programming Language)",
+        "Linux Kernel",
+        "DevOps",
+        "C++",
+        "Linux",
+        "Embedded Software",
+        "ARM Architecture",
+        "Microcontrollers",
+        "Robotics",
+        "Computer Vision",
+        "TCP/IP",
+        "Machine Learning",
+        "Data Science",
+        "Artificial Intelligence (AI)",
+        "ISO 9001",
+        "Software Development",
+        "Engineering"
+    ],
+    "inferred_salary": {
+        "min": null,
+        "max": null
+    },
+    "gender": null,
+    "birth_date": null,
+    "industry": "Information Technology & Services",
+    "extra": {
+        "github_profile_id": null
+    },
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

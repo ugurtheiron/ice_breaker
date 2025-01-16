@@ -10,7 +10,7 @@ from langchain_ollama import ChatOllama
 from parsers import FinalResponse, CategoryNotFound, Category
 
 
-product = "running shoes"
+product = "chair"
 
 if __name__ == "__main__":
     load_dotenv()
@@ -105,8 +105,8 @@ if __name__ == "__main__":
     # kategory_promt = PromptTemplate(input_variables="product_description", output_variables="category", template=kategory_template)
 
     # Model
-    llm = ChatOpenAI(temperature=0.1, model_name="gpt-4o")
-    # llm = ChatOllama(model="llama3.1:8b")
+    # llm = ChatOpenAI(temperature=0.1, model_name="gpt-4o")
+    llm = ChatOllama(model="llama3.1:8b")
 
     # output parser
     parser = PydanticOutputParser(pydantic_object=FinalResponse)
