@@ -13,7 +13,7 @@ if __name__ == "__main__":
     # print(os.environ["OPENAI_API_KEY"])
 
     # Promt
-    linkedin_template = """
+    linkedin_template =  """
     given the Linkedin information {information} about a person I want you to create:
     1. A short summary of the person
     2. two interesting facts about them
